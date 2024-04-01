@@ -1,27 +1,41 @@
-##Screenshots -: 
-![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/77937aae-2715-4720-bb9c-17b1c9768bee) (Login Page)
+# PropertyPedia 
 
-![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/4908d35a-c290-4838-8609-a2b50495d7db) (Home Page)
+## Demo Video -: 
+
+## Screenshots -: 
+![image](https://github.com/vikastripathi707/PropertyPedia/assets/86002620/c4eac76f-cd78-4b07-8b43-976eb8d073d2)
+ (Login Page)
+
+![image](https://github.com/vikastripathi707/PropertyPedia/assets/86002620/b347eb09-842e-4155-805a-47d27c3e942b)
+ (Home Page)
 
 ![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/aa26e2b3-961c-42f1-a108-996e1cf16083)
 
 ![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/0a165cee-59af-4b70-8007-61ca9a2b56da)
 ![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/46bb1c8e-8596-4fbd-bde1-8550d8687e53)
 
-![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/697deab7-0c26-47f2-936a-6fd46d434910) (All Post Page)
+![image](https://github.com/vikastripathi707/PropertyPedia/assets/86002620/e4963fe5-34dd-48af-896d-4ee8e2865328)
+ (All Post Page)
 
-![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/0ee6a675-3b3a-41f6-8b46-d116b52bbeef) (Post Details Page )
+![image](https://github.com/vikastripathi707/PropertyPedia/assets/86002620/f1ed5ee8-7113-459d-8841-1d82735db7d1)
+ (Post Details Page )
 
 ![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/406c0e2f-d53c-440b-a9eb-7f4d1c54dd47)
 
-![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/0444219d-f54e-47e6-a077-46b3c2f71f06) (About Page)
+![image](https://github.com/vikastripathi707/PropertyPedia/assets/86002620/d25869d4-2d51-465b-8613-1bb17b6d2cca)
+ (About Page)
 
-![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/1660f241-3afc-4631-beff-d3244f5da603) (Contact Us Page)
+![image](https://github.com/vikastripathi707/PropertyPedia/assets/86002620/3fb6df38-40c1-4068-affb-d3ba7fb2a89d)
+ (Contact Us Page)
 
-![image](https://github.com/vikastripathi707/PostReactApp/assets/86002620/401fdda8-4007-41e2-8029-fef239587945)
+![image](https://github.com/vikastripathi707/PropertyPedia/assets/86002620/bb06d7bc-62f4-4133-a8b5-9aa61e1832cb)
 
 
 
+
+![image](https://github.com/vikastripathi707/PropertyPedia/assets/86002620/8ac26ec3-8c54-4773-8f44-d629a1ea26f0)
+
+(Create New Account Page)
 
 
 
