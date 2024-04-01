@@ -1,6 +1,6 @@
 # PropertyPedia 
 
-## Demo Video -: 
+## Demo Video -: https://www.linkedin.com/posts/vikastripathi707_everyone-propertypediaapp-realestatetechnology-activity-7180645536612380672-R-zZ?utm_source=share&utm_medium=member_desktop
 
 ## Screenshots -: 
 ![image](https://github.com/vikastripathi707/PropertyPedia/assets/86002620/c4eac76f-cd78-4b07-8b43-976eb8d073d2)
